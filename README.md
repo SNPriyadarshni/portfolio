@@ -6,4 +6,4 @@ Fully responsive and easy to customize
 
 Hosted on GitHub and deployed via Netlify
 
-🔗 Live Demo: https://tourmaline-eclair-45940d.netlify.app/
+🔗 Live Demo: https://priyadarshni-portfolio.netlify.app/
